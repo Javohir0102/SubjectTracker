@@ -1,0 +1,6 @@
+@SubjectTracker_HostAddress = http://localhost:5234
+
+GET {{SubjectTracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
